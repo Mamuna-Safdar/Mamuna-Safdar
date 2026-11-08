@@ -1,14 +1,6 @@
-<div align="center">
+<img src="assets/banner-v6.svg" alt="Mamuna Safdar. MS Computer Science, FAST-NUCES. Hallucination mitigation in RAG, LLM evaluation, Urdu NLP. A cute spider with a bow climbs out of a transformer block and says: checking sources, grounded, or I don't know." width="760" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14A38E&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Mamuna+Safdar;MS+Computer+Science+%40+FAST-NUCES;Hallucination+mitigation+in+RAG;LLM+evaluation+%C2%B7+Urdu+NLP" alt="Hi, I'm Mamuna Safdar. MS Computer Science at FAST-NUCES. Hallucination mitigation in RAG. LLM evaluation and Urdu NLP." />
-
-<img src="assets/network-v5.svg" alt="Signals flow through a network (query, retrieve, verify, answer). A cute spider with a bow lives in a transformer block: it climbs down, looks around, and hides back inside while the attention layer lights up." width="720" />
-
-</div>
-
-I'm an MS Computer Science student at FAST-NUCES, working on **hallucination mitigation in retrieval-augmented generation (RAG)**: getting language models to answer only what their sources support, and to say so when they can't.
-
-**Interests:** RAG · LLM evaluation · low-resource languages (Urdu)
+I work on **hallucination mitigation in retrieval-augmented generation (RAG)**: getting language models to answer only what their sources support, and to say so when they can't.
 
 ### 🛠️ Currently
 - Rebuilding a full RAG pipeline from scratch: retrieval, reranking and evaluation
