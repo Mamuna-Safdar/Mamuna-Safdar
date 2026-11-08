@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14A38E&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Mamuna+Safdar;MS+Computer+Science+%40+FAST-NUCES;Hallucination+mitigation+in+RAG;LLM+evaluation+%C2%B7+Urdu+NLP" alt="Hi, I'm Mamuna Safdar. MS Computer Science at FAST-NUCES. Hallucination mitigation in RAG. LLM evaluation and Urdu NLP." />
 
-<img src="assets/network.svg" alt="Tiny spiders crawl through a network (query, retrieve, verify, answer) while a bigger spider peeks out of its nest and hides again." width="720" />
+<img src="assets/network.svg" alt="Cute little spiders, some wearing pink bows, crawl through a network (query, retrieve, verify, answer) while a bigger spider with a bow peeks out of its nest and hides again." width="720" />
 
 </div>
 
