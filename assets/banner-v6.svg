@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220" role="img" aria-label="Mamuna Safdar. MS Computer Science, FAST-NUCES. Hallucination mitigation in RAG, LLM evaluation, Urdu NLP. A cute spider with a bow climbs out of a transformer block and says: checking sources, grounded, or I don't know.">
+<style>
+text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
+.name{fill:#14A38E;font-size:34px;font-weight:700;letter-spacing:-.01em}
+.sub{fill:#8B949E;font-size:15px;font-weight:600}
+.tags{fill:#8B949E;font-size:13.5px}
+.tag{fill:#8B949E;font-size:13px;font-style:italic;opacity:.9}
+.tb text{font-size:8px;fill:#fff;font-weight:600}
+.tb .lab{fill:#8B949E;font-size:9px}
+.bub text{font-size:12px;fill:#1F2328;font-weight:600}
+.lg{transform-box:fill-box;animation:wig .32s ease-in-out infinite alternate}
+.lg.l{transform-origin:100% 50%}.lg.r{transform-origin:0% 50%}
+@keyframes wig{from{transform:rotate(-10deg)}to{transform:rotate(10deg)}}
+.blink{transform-box:fill-box;transform-origin:center;animation:blink 4s infinite}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+.big{animation:peek 9.0s ease-in-out infinite}
+@keyframes peek{0%,8%{transform:translateY(-95px)}22%{transform:translateY(0)}30%{transform:translateY(-5px)}38%{transform:translateY(0)}46%{transform:translateY(-3px)}56%,64%{transform:translateY(0)}70%,100%{transform:translateY(-95px)}}
+.tb{transform-box:fill-box;transform-origin:50% 100%;animation:shake 9.0s ease-in-out infinite}
+@keyframes shake{0%,69%{transform:rotate(0)}72%{transform:rotate(3deg)}75%{transform:rotate(-2.5deg)}78%{transform:rotate(1.2deg)}81%,100%{transform:rotate(0)}}
+.think{animation:think 9.0s ease-in-out infinite}
+@keyframes think{0%,72%{opacity:.85}76%{opacity:1}80%{opacity:.55}84%{opacity:1}88%{opacity:.55}92%,100%{opacity:.85}}
+@keyframes m0{0%,8.15%{opacity:0;transform:scale(.6)}9.35%,19.74%{opacity:1;transform:scale(1)}20.74%,100%{opacity:0;transform:scale(.6)}}.m0{transform-box:fill-box;transform-origin:100% 50%;opacity:0;animation:m0 27.0s ease-in-out infinite}@keyframes m1{0%,41.48%{opacity:0;transform:scale(.6)}42.68%,53.07%{opacity:1;transform:scale(1)}54.07%,100%{opacity:0;transform:scale(.6)}}.m1{transform-box:fill-box;transform-origin:100% 50%;opacity:0;animation:m1 27.0s ease-in-out infinite}@keyframes m2{0%,74.81%{opacity:0;transform:scale(.6)}76.01%,86.41%{opacity:1;transform:scale(1)}87.41%,100%{opacity:0;transform:scale(.6)}}.m2{transform-box:fill-box;transform-origin:100% 50%;opacity:0;animation:m2 27.0s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.lg,.blink,.big,.tb,.think{animation:none}.m0,.m1,.m2{animation:none}.m1{opacity:1}}
+</style>
+<defs><g id="cutebow"><path class="lg l" d="M-8.5,-5 Q-15.5,-12 -19.5,-2" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.00s"/><path class="lg r" d="M8.5,-5 Q15.5,-12 19.5,-2" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.00s"/><path class="lg l" d="M-8.5,-1 Q-15.5,-8 -19.5,2" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.08s"/><path class="lg r" d="M8.5,-1 Q15.5,-8 19.5,2" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.08s"/><path class="lg l" d="M-8.5,3 Q-15.5,-4 -19.5,6" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.16s"/><path class="lg r" d="M8.5,3 Q15.5,-4 19.5,6" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.16s"/><path class="lg l" d="M-8.5,7 Q-15.5,0 -19.5,10" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.24s"/><path class="lg r" d="M8.5,7 Q15.5,0 19.5,10" fill="none" stroke="#8E97A8" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.24s"/><circle r="10" fill="#8E97A8"/><g class="blink"><circle cx="-4" cy="-2" r="3.6" fill="#fff"/><circle cx="4" cy="-2" r="3.6" fill="#fff"/><circle cx="-3.6" cy="-1.4" r="1.9" fill="#1F2328"/><circle cx="4.4" cy="-1.4" r="1.9" fill="#1F2328"/><circle cx="-3" cy="-2.2" r=".7" fill="#fff"/><circle cx="5" cy="-2.2" r=".7" fill="#fff"/></g><ellipse cx="-6.8" cy="3.2" rx="1.9" ry="1.2" fill="#F4A6B8" opacity=".9"/><ellipse cx="6.8" cy="3.2" rx="1.9" ry="1.2" fill="#F4A6B8" opacity=".9"/><path d="M-2,4.2 Q0,6.4 2,4.2" fill="none" stroke="#1F2328" stroke-width="1" stroke-linecap="round"/><g transform="translate(-5.5,-9.5) rotate(-18)"><path d="M0,0 L-5,-3.2 L-5,3.2 Z" fill="#FF6FA3"/><path d="M0,0 L5,-3.2 L5,3.2 Z" fill="#FF6FA3"/><circle r="1.6" fill="#E04D86"/></g></g><clipPath id="below"><rect x="560" y="106" width="200" height="200"/></clipPath></defs>
+<text class="name" x="28" y="80">Mamuna Safdar</text>
+<text class="sub" x="30" y="110">MS Computer Science · FAST-NUCES</text>
+<text class="tags" x="30" y="136">Hallucination mitigation in RAG · LLM evaluation · Urdu NLP</text>
+<text class="tag" x="30" y="176">Teaching language models to say “I don’t know.”</text>
+<g class="tb"><rect x="630" y="10" width="100" height="96" rx="10" fill="#8B949E" fill-opacity=".14" stroke="#8B949E" stroke-opacity=".6"/>
+<rect class="" x="640" y="18" width="80" height="11" rx="4" fill="#9AA3B2"/>
+<text x="680" y="26.5" text-anchor="middle">Add &amp; Norm</text>
+<rect class="" x="640" y="33" width="80" height="17" rx="4" fill="#5B8DEF"/>
+<text x="680" y="44.5" text-anchor="middle">Feed Forward</text>
+<rect class="" x="640" y="54" width="80" height="11" rx="4" fill="#9AA3B2"/>
+<text x="680" y="62.5" text-anchor="middle">Add &amp; Norm</text>
+<rect class="think" x="640" y="69" width="80" height="24" rx="4" fill="#E8833A"/>
+<text x="680" y="79.5" text-anchor="middle">Multi-Head</text>
+<text x="680" y="88.5" text-anchor="middle">Attention</text>
+<text class="lab" x="624" y="60" text-anchor="end">N×</text>
+<ellipse cx="680" cy="106" rx="12" ry="4.5" fill="#1F2328" fill-opacity=".9"/></g>
+<g clip-path="url(#below)"><g class="big"><line x1="680" y1="60" x2="680" y2="156" stroke="#8B949E" stroke-opacity=".7"/>
+<g transform="translate(680,174)"><use href="#cutebow" transform="scale(1.8)"/></g></g></g>
+<g class="bub m0"><rect x="500.7" y="154" width="137.3" height="26" rx="13" fill="#fff" stroke="#8B949E" stroke-opacity=".6"/><path d="M636,164 L647,168 L636,173" fill="#fff" stroke="#8B949E" stroke-opacity=".6"/><rect x="634" y="164.5" width="3" height="8" fill="#fff"/><text x="569.4" y="172" text-anchor="middle">checking sources…</text></g>
+<g class="bub m1"><rect x="549.0" y="154" width="89.0" height="26" rx="13" fill="#fff" stroke="#8B949E" stroke-opacity=".6"/><path d="M636,164 L647,168 L636,173" fill="#fff" stroke="#8B949E" stroke-opacity=".6"/><rect x="634" y="164.5" width="3" height="8" fill="#fff"/><text x="593.5" y="172" text-anchor="middle">✓ grounded</text></g>
+<g class="bub m2"><rect x="493.8" y="154" width="144.2" height="26" rx="13" fill="#fff" stroke="#8B949E" stroke-opacity=".6"/><path d="M636,164 L647,168 L636,173" fill="#fff" stroke="#8B949E" stroke-opacity=".6"/><rect x="634" y="164.5" width="3" height="8" fill="#fff"/><text x="565.9" y="172" text-anchor="middle">hmm… I don't know!</text></g>
+</svg>
