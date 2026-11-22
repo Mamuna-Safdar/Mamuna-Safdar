@@ -14,4 +14,4 @@ I also turn AI research papers into short animated stories, with real numbers an
 **Tools:** Python · Hugging Face · OpenAI API
 
 ### 🔗 Find me
-[LinkedIn](https://www.linkedin.com/in/mamuna-safdar/) · [YouTube](https://www.youtube.com/@mamuna_irl) · [Instagram](https://www.instagram.com/mamuna.irl/)
+[LinkedIn](https://www.linkedin.com/in/mamuna-safdar/) · [YouTube](https://www.youtube.com/@mamuna_irl) · [Instagram](https://www.instagram.com/mamuna_irl/)
